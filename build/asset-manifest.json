@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FEM-CalculatorApp/static/css/main.3a5a7d60.css",
+    "main.js": "/FEM-CalculatorApp/static/js/main.20d09506.js",
+    "static/js/787.97c71ab1.chunk.js": "/FEM-CalculatorApp/static/js/787.97c71ab1.chunk.js",
+    "index.html": "/FEM-CalculatorApp/index.html",
+    "main.3a5a7d60.css.map": "/FEM-CalculatorApp/static/css/main.3a5a7d60.css.map",
+    "main.20d09506.js.map": "/FEM-CalculatorApp/static/js/main.20d09506.js.map",
+    "787.97c71ab1.chunk.js.map": "/FEM-CalculatorApp/static/js/787.97c71ab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a5a7d60.css",
+    "static/js/main.20d09506.js"
+  ]
+}
